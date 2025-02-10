@@ -1,4 +1,5 @@
 ### Olá, me chamo Victor Herdt
+Email: herdtvictor@gmail.com
 
 <div align="center">
   <a href="https://github.com/VictorHerdt">
